@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Buy Now\n"
+"POT-Creation-Date: 2019-04-17 09:45+0300\n"
+"PO-Revision-Date: 2019-04-17 09:46+0300\n"
+"Last-Translator: Dor Zuberi <webmaster@dorzki.co.il>\n"
+"Language-Team: Dor Zuberi <webmaster@dorzki.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-buy-now.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-plugin.php:61 class-plugin.php:79
+msgid "Buy Now"
+msgstr "קנה עכשיו"
+
+#. translators: 1: WooCommerce 2: Plugin Name
+#: wc-buy-now.php:69
+#, php-format
+msgid ""
+"\"%1$s\" is required to be installed and activated in order to use \"%2$s\"."
+msgstr "‫“%1$s” נדרש להיות מותקן ומופעל על מנת להשתמש בתוסף “%2$s”."
+
+#: wc-buy-now.php:70
+msgid "WooCommerce"
+msgstr "ווקומרס"
+
+#. Plugin Name of the plugin/theme
+#: wc-buy-now.php:71
+msgid "WooCommerce Buy Now"
+msgstr "קנה עכשיו - ווקומרס"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.dorzki.co.il/adding-buy-now-button-in-woocommerce/"
+msgstr "https://www.dorzki.co.il/adding-buy-now-button-in-woocommerce/"
+
+#. Description of the plugin/theme
+msgid "Add Buy Now button to WooCommerce product and archive pages."
+msgstr "הוסף כפתור ״קנה עכשיו״ לעמודי מוצר וארכיון בווקומרס."
+
+#. Author of the plugin/theme
+msgid "dorzki"
+msgstr "דורזקי"
+
+#. Author URI of the plugin/theme
+msgid "https://www.dorzki.co.il"
+msgstr "https://www.dorzki.co.il"
